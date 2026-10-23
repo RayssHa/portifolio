@@ -2,7 +2,7 @@
 
 Meu portfólio pessoal, feito com **HTML, CSS e JavaScript** puro e publicado com o **GitHub Pages**.
 
-🔗 **Site no ar:** https://RayssHa.github.io/portfolio/
+🔗 **Site no ar:** https://RayssHa.github.io/portifolio/
 
 ## Seções
 
